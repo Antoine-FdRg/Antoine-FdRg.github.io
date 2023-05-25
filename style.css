@@ -1,0 +1,66 @@
+/* CSS files add styling rules to your content */
+
+body {
+  width:100%;
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background : rgb(0,220,255);
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+
+header{
+  margin-top: 50px;
+  background: #C0C0C0;;
+  border: 3px solid rgb(0, 0, 205);
+  border-radius: 7px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+h2{
+  text-align: left;
+  color: black;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+h3{
+  width: 80%;
+  font-family: Georgia, serif;
+  font-size: 110px;
+  text-align: center;
+  color:  rgb(0,140,255);
+  padding: 10px;
+  background:#ffcc66;
+  margin-top: 4%;
+  margin-bottom : 3%;
+  border: 8px solid rgb(0, 0, 0);
+  border-radius: 3px;
+}
+
+h3 span{
+  color:  rgb(0,50,180);
+  font-size: 160px;
+}
+
+section{
+  font-family: Georgia, serif;
+  color: #000000;
+  padding: 10px;
+  background:#ffdd99;
+  text-align: justify;
+  margin-top: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+  border: 6px solid rgb(0, 0, 0);
+  border-radius: 3px;
+}
+
+a{
+  color: rgb(0, 0, 205);
+}
